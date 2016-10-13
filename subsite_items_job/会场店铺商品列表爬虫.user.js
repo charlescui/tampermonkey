@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         会场店铺商品列表爬虫
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  天猫会场页商品列表爬虫，爬取页面的商品ID和链接
 // @icon         https://img.alicdn.com/tps/i2/TB1KTLrGVXXXXaeXFXXfLpBIVXX-144-100.gif
 // @author       zheng.cuizhgmail.com
