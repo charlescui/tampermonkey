@@ -13,6 +13,7 @@
 // @match        https://pages.tmall.com/*
 // @require      https://m.alicdn.com/cuizheng/node_modules/xpath-dom/dist/xpath-dom.min.js
 // @require      https://m.alicdn.com/cuizheng/node_modules/file-saver/FileSaver-min.js
+// @updateURL    https://openuserjs.org/meta/zheng.cuizhgmail.com/会场店铺商品列表爬虫.meta.js
 // ==/UserScript==
 /* jshint ignore:start */
 var inline_src = (<><![CDATA[
