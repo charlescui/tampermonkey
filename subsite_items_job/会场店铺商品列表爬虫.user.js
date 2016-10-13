@@ -9,7 +9,7 @@
 // @grant        GM_getValue
 // @grant        GM_notification
 // @require      http://coffeescript.org/extras/coffee-script.js
-// @require      https://raw.githubusercontent.com/charlescui/tampermonkey/master/lib/job.js
+// @require      https://openuserjs.org/src/libs/zheng.cuizhgmail.com/job.min.js
 // @match        https://pages.tmall.com/*
 // @require      https://m.alicdn.com/cuizheng/node_modules/xpath-dom/dist/xpath-dom.min.js
 // @require      https://m.alicdn.com/cuizheng/node_modules/file-saver/FileSaver-min.js
